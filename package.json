@@ -1,7 +1,8 @@
 {
-  "name": "shorturl",
+  "name": "short_url",
+  "author": "Lautaro Ezequiel Sanabria",
   "version": "0.0.3",
-  "description": "API project for freeCodeCamp",
+  "description": "Proyecto para recortar urls",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -10,7 +11,7 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
-    "dotenv": "^8.2.0",
+    "dotenv": "^8.6.0",
     "express": "^4.17.1"
   },
   "license": "MIT",
